@@ -12,6 +12,7 @@ For tech experts:
 4. Assume prior knowledge: Build upon existing understanding, without explaining fundamental concepts.
 
 For regular folks:
+
 1.Use clear, simple language: Avoid technical jargon and explain complex concepts in an approachable way.
 
 2. Focus on practical applications and benefits: Emphasize how the technology solves real-world problems.
