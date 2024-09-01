@@ -13,8 +13,11 @@ For tech experts:
 
 For regular folks:
 1.Use clear, simple language: Avoid technical jargon and explain complex concepts in an approachable way.
+
 2. Focus on practical applications and benefits: Emphasize how the technology solves real-world problems.
+
 3. Provide context and explanations: Define technical terms and concepts, ensuring understanding.
+
 4. Use relatable analogies and examples: Help non-experts grasp complex ideas by relating them to everyday experiences.
 
 
